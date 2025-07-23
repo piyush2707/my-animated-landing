@@ -16,7 +16,7 @@ It features smooth animations, responsive layout, and a professional look – pe
 
 ## 📸 Preview
 Check out the live preview here:  
-👉 [Live Demo](https://piyush2707.github.io/my-design-animated-page)
+👉 [Live Demo](https://piyush2707.github.io/my-animated-landing/)
 
 ## 📌 Author
 **Piyush Joshi** – UI/UX Designer | Frontend Developer  
